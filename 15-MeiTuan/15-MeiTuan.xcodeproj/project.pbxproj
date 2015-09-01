@@ -31,6 +31,7 @@
 		4C7FABBF1B80DAA7005854D9 /* MerchantSegmented.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7FABBE1B80DAA7005854D9 /* MerchantSegmented.swift */; };
 		4C7FABC11B80ED39005854D9 /* DropDownBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7FABC01B80ED39005854D9 /* DropDownBar.swift */; };
 		4C7FABCF1B81B351005854D9 /* cate.json in Resources */ = {isa = PBXBuildFile; fileRef = 4C7FABCE1B81B351005854D9 /* cate.json */; };
+		4C8541231B953956008BB6F6 /* gif in Resources */ = {isa = PBXBuildFile; fileRef = 4C8541221B953956008BB6F6 /* gif */; };
 		4CD2B2811B8719D10008B6A3 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CD2B2591B8719B80008B6A3 /* Alamofire.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		4CD2B2821B8719D60008B6A3 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CD2B27A1B8719C30008B6A3 /* SwiftyJSON.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		4CD2B2881B8748520008B6A3 /* MerchantDeal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD2B2871B8748520008B6A3 /* MerchantDeal.swift */; };
@@ -176,6 +177,7 @@
 		4C7FABBE1B80DAA7005854D9 /* MerchantSegmented.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MerchantSegmented.swift; sourceTree = "<group>"; };
 		4C7FABC01B80ED39005854D9 /* DropDownBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropDownBar.swift; sourceTree = "<group>"; };
 		4C7FABCE1B81B351005854D9 /* cate.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cate.json; sourceTree = "<group>"; };
+		4C8541221B953956008BB6F6 /* gif */ = {isa = PBXFileReference; lastKnownFileType = folder; path = gif; sourceTree = "<group>"; };
 		4CD2B2511B8719B80008B6A3 /* Alamofire.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Alamofire.xcodeproj; path = "Alamofire-master/Alamofire.xcodeproj"; sourceTree = "<group>"; };
 		4CD2B2721B8719C30008B6A3 /* SwiftyJSON.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SwiftyJSON.xcodeproj; path = "SwiftyJSON-master/SwiftyJSON.xcodeproj"; sourceTree = "<group>"; };
 		4CD2B2871B8748520008B6A3 /* MerchantDeal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MerchantDeal.swift; sourceTree = "<group>"; };
@@ -236,6 +238,7 @@
 		4C7FAB711B808D3E005854D9 = {
 			isa = PBXGroup;
 			children = (
+				4C8541221B953956008BB6F6 /* gif */,
 				4CED84E91B8F3B3200437033 /* BaiduMapAPI.framework */,
 				4C740D201B8E0BE700FE69E4 /* Kingfisher.xcodeproj */,
 				4CD2B2721B8719C30008B6A3 /* SwiftyJSON.xcodeproj */,
@@ -589,6 +592,7 @@
 			files = (
 				4C7FABCF1B81B351005854D9 /* cate.json in Resources */,
 				4CE400021B8383C00008CE29 /* cities.json in Resources */,
+				4C8541231B953956008BB6F6 /* gif in Resources */,
 				4C740D1D1B8E0A5300FE69E4 /* mapapi.bundle in Resources */,
 				4C7FAB871B808D3E005854D9 /* Images.xcassets in Resources */,
 			);
